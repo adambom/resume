@@ -1,0 +1,34 @@
+body {
+    font-size: 11px;
+    line-height: 14px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+
+h3 {
+    font-size: 16px;
+}
+
+h1, h2, h3 {
+    line-height: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 5px 0;
+}
+
+.page-header {
+    padding-bottom: 4px;
+    margin: 10px 0 15px;
+}
+
+hr {
+    margin: 5px 0;
+}
+
+.muted {
+    color: #EEE;
+}
